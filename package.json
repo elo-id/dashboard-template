@@ -1,5 +1,5 @@
 {
-  "name": "board-meeting",
+  "name": "template-dashboard",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "prismjs": "^1.30.0",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
